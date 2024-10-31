@@ -46,6 +46,10 @@ You can download the compiled executable version of Voxel2BlueprintGenerator if 
 
 - **[Download Voxel2BlueprintGenerator.exe](https://github.com/21Suspect/Voxel2BlueprintGenerator/releases/download/v1.0/Voxel2BlueprintGenerator.exe)**
 
+## Screenshot
+![Screenshot](https://raw.githubusercontent.com/21Suspect/Voxel2BlueprintConverter/main/Voxel2BlueprintConverter.jpg)  
+(*Example of the GUI in action*)
+
 ## How to Use the Application
 
 1. **Launch the Application**: Run the Python script or executable.
@@ -53,10 +57,6 @@ You can download the compiled executable version of Voxel2BlueprintGenerator if 
 3. **Set Scale and UUID**: Use the slider to set a **scale** between 0.1 and 2.0 and enter a custom **UUID** for your creations.
 4. **Convert**: Click on **Convert** to start the conversion. The `.blueprint` files will be saved in `C:\Program Files (x86)\Steam\steamapps\common\Scrap Mechanic\Survival\LocalBlueprints`.
 5. **Appearance Settings**: Change the appearance mode to `Light`, `Dark`, or `System` using the drop-down option.
-
-## Screenshot
-![Screenshot](https://raw.githubusercontent.com/21Suspect/Voxel2BlueprintConverter/main/screenshot.png)  
-(*Example of the GUI in action*)
 
 ## Configuration
 The application has several configurable parameters:
