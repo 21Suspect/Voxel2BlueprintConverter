@@ -40,9 +40,11 @@ pip install customtkinter midvoxio
    ```
 4. The **graphical user interface (GUI)** will open, allowing you to select `.vox` files, set the conversion scale, and specify the custom UUID.
 
-## Download the Executable
+## Download Voxel2BlueprintGenerator Executable
 
-If you prefer not to run the Python script manually, you can download the **Voxel2BlueprintConverter.exe** from the [GitHub Releases](https://github.com/21Suspect/Voxel2BlueprintConverter/releases) page.
+You can download the compiled executable version of Voxel2BlueprintGenerator if you prefer not to run the Python script. This version does not require Python to be installed and can be run directly on your Windows system.
+
+- **[Download Voxel2BlueprintGenerator.exe](https://github.com/21Suspect/Voxel2BlueprintGenerator/releases/download/v1.0/Voxel2BlueprintGenerator.exe)**
 
 ## How to Use the Application
 
