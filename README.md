@@ -1,4 +1,4 @@
-# Voxel to Blueprint Converter by Fabian Vinke
+# Voxel to Blueprint Converter
 
 ## Overview
 
