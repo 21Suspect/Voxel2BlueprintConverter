@@ -48,7 +48,6 @@ You can download the compiled executable version of Voxel2BlueprintGenerator if 
 
 ## Screenshot
 ![Screenshot](https://raw.githubusercontent.com/21Suspect/Voxel2BlueprintConverter/main/Voxel2BlueprintConverter.jpg)  
-(*Example of the GUI in action*)
 
 ## How to Use the Application
 
