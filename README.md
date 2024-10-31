@@ -44,7 +44,7 @@ pip install customtkinter midvoxio
 
 You can download the compiled executable version of Voxel2BlueprintGenerator if you prefer not to run the Python script. This version does not require Python to be installed and can be run directly on your Windows system.
 
-- **[Download Voxel2BlueprintGenerator.exe](https://github.com/21Suspect/Voxel2BlueprintGenerator/releases/download/v1.0/Voxel2BlueprintGenerator.exe)**
+- **[Download Voxel2BlueprintGenerator.exe](https://github.com/21Suspect/Voxel2BlueprintConverter/releases/download/v1.0/Voxel2BlueprintConverter.exe)**
 
 ## Screenshot
 ![Screenshot](https://raw.githubusercontent.com/21Suspect/Voxel2BlueprintConverter/main/Voxel2BlueprintConverter.jpg)  
