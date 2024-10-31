@@ -1,4 +1,4 @@
-# Voxel to Blueprint Converter
+# Voxel to Scrap Mechanic Blueprint Converter
 
 ## Overview
 
