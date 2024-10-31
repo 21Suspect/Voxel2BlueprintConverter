@@ -1,0 +1,2 @@
+2024-10-11 11:46:28,257 - __init__.py[line:341] - DEBUG - CACHEDIR=C:\Users\fabiv\.matplotlib
+2024-10-11 11:46:28,262 - font_manager.py[line:1580] - DEBUG - Using fontManager instance from C:\Users\fabiv\.matplotlib\fontlist-v390.json
