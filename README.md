@@ -1,5 +1,11 @@
 # Voxel to Scrap Mechanic Blueprint Converter
 
+[![Latest release](https://img.shields.io/github/v/release/21Suspect/Voxel2BlueprintConverter?display_name=tag&sort=semver)](https://github.com/21Suspect/Voxel2BlueprintConverter/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/21Suspect/Voxel2BlueprintConverter/total)](https://github.com/21Suspect/Voxel2BlueprintConverter/releases)
+[![License: MIT](https://img.shields.io/badge/original_code-MIT-ffc124.svg)](#license)
+[![Platform](https://img.shields.io/badge/platform-Windows%20x64-45d6c7.svg)](#installation)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-Support-FFDD00?logo=buy-me-a-coffee&logoColor=000000)](https://buymeacoffee.com/21suspect)
+
 ## Overview
 
 The **Voxel to Blueprint Converter** is a handy tool that converts `.vox` files from **MagicaVoxel** into `.blueprint` files for **Scrap Mechanic**. This tool allows you to directly convert voxel models into in-game blueprints, with customizable options like **scale** and **UUID**. It is developed using Python with a user-friendly GUI provided by **CustomTkinter**.
